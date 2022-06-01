@@ -1,0 +1,19 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "Web App Study Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dchoi2908/StudBud.git"
+  },
+  "author": "Daniel Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dchoi2908/StudBud/issues"
+  },
+  "homepage": "https://github.com/Dchoi2908/StudBud#readme"
+}
