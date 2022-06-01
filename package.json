@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dchoi2908/StudBud/issues"
   },
-  "homepage": "https://github.com/Dchoi2908/StudBud#readme"
+  "homepage": "https://github.com/Dchoi2908/StudBud#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
