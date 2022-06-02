@@ -1,0 +1,42 @@
+//Edit//
+nav {
+    width: 100%;
+    background-color: #123;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .nav-links {
+        list-style: none;
+        display: flex;
+        .nav-item a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            padding: 1em 2em;
+            &:hover {
+                color: #abc;
+            }
+            &.active {
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+nav.vertical {
+    width: 120px;
+    height: 100vh;
+    flex-direction: row;
+    position: absolute;
+    left: 0;
+    top: 0;
+    .nav-links {
+        flex-direction: column;
+        .nav-item a {
+            display: block;
+            padding: 4em 0;
+            
+        }
+    }
+
+}

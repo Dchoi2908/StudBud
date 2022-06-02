@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <title>StudBud</title>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width" />
   <meta name="description" content="" />
-  
   <!-- <link rel="icon" href="img/favicon.png"> -->
-  <link rel="stylesheet" href ="style.css">
-  
+  <link href="scss/main.scss" rel="stylesheet" type ="text/css">
 </head>
-<body>
-  <h1>StudBud!</h1>
-</body>
+
+<body class="app-container">
+
+  <nav class="vertical top-nav">
+      <ul class="nav-links">
+          <li class="nav-item"><a href="index.html" class="active">Home</a></li>
+          <li class="nav-item"><a href="tasklist.html">Tasks</a></li>
+      </ul>
+  </nav>
+
+  <div id="home" class="page-container">
+      <h1>StudBud</h1>
+
+      <p>This time with <a href="https://expressjs.com/">Express</a> + <a href="https://v2.parceljs.org/">Parcel</a> + <a href="https://sass-lang.com/">SASS (SCSS)</a>!</p>
+  </div>
 
 <script src="script.js"></script>
 ></script></html>
