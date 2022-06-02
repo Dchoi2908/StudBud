@@ -1,0 +1,340 @@
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,500;1,300;1,500&display=swap');
+
+/* Global Variables */
+
+ :root {
+	--main-column-width: 50rem;
+	--h1-size: 4rem;
+	--h2-size: 3rem;
+  --h3-size: 2rem;
+	--p-size: 1.3rem;
+	--h1-size-small: 2rem;
+	--text-section-padding: 2rem;
+	--text-padding: 2rem;
+	--right-padding: 1rem;
+	--default-line-height: 2rem;
+	--sidebar-width: 300px;
+	--grid-column-remainder: calc(100vw - var(--main-column-width) - var(--sidebar-width));
+	--code-figure-offset: calc(var(--grid-column-remainder)/2);
+	--highlight-colour: #2196F3;
+	--text-colour: #616161;
+	--heading-colour: #212121;
+	--text-margin: 5rem;
+}
+
+/* Global Styles */
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	display: grid;
+	grid-template-columns: 1fr var(--sidebar-width);
+	grid-template-rows: auto 100px;
+}
+
+body.index-page {
+	margin: 0 auto;
+	max-width: var(--main-column-width);
+	grid-template-columns: 1fr;
+}
+
+main {
+	max-width: var(--main-column-width);
+	margin: 0 auto;
+}
+
+/* Navigation Styles */
+
+nav {
+	position: fixed;
+	margin-top: 2rem;
+	width: var(--sidebar-width);
+}
+
+nav .nav-link {
+	padding-bottom: 1rem;
+}
+
+nav ol {
+  list-style: none;
+}
+
+nav ol li {
+	padding-top: 10px;
+}
+
+nav ol ol {
+	padding-left: 25px;
+}
+
+nav ol li .nav-link.is-active {
+	font-weight: bold;
+}
+
+footer {
+	display: grid;
+	grid-column: 1 / 4;
+	padding: 2rem 0;
+  place-content: center;
+}
+
+/* Typography Styles */
+
+h1,
+h2,
+h3 {
+	padding-top: var(--text-margin);
+	font-weight: 300;
+	color: var(--heading-colour);
+}
+
+h1 {
+  font-size: var(--h1-size)
+}
+
+h2 {
+  font-size: var(--h2-size)
+}
+
+h3 {
+  font-size: var(--h3-size)
+}
+
+.main-title {
+	padding-top: 0;
+}
+
+strong,
+li {
+	color: var(--heading-colour);
+}
+
+p,
+td {
+	color: var(--text-colour);
+}
+
+p {
+	padding-top: var(--text-padding);
+	font-size: var(--p-size);
+	line-height: var(--default-line-height)
+}
+
+ul {
+	list-style: inside circle;
+}
+
+ol {
+	list-style: inside deciaml;
+}
+
+li {
+	line-height: 1.5;
+	font-size: var(--p-size);
+}
+
+a {
+	color: var(--highlight-colour);
+}
+
+/* Table Styles */
+
+table {
+	margin-bottom: var(--text-section-padding);
+}
+
+tr {
+	text-align: left;
+}
+
+th,
+td {
+	padding-top: var(--text-padding);
+	font-size: var(--p-size);
+}
+
+th {
+	min-width: 10rem
+}
+
+/* Quote Styles */
+
+blockquote {
+	font-size: 1.75rem;
+	font-style: italic;
+	padding: 3rem 0 0;
+	padding-right: 6rem
+}
+
+/* Figure Styles */
+
+figure {
+	padding-top: var(--text-section-padding);
+	z-index: 2;
+}
+
+figure {
+	margin-bottom: var(--text-padding)
+}
+
+.figure-wrapper {
+	position: relative;
+	height: 0;
+	padding-bottom: 56.25%;
+	/* 16:9 */
+	/* falls back to 16/9, but otherwise uses ratio from HTML */
+	padding-bottom: calc(var(--aspect-ratio, .5625) * 100%);
+}
+/* code for figure-wrapper sourced from: https://css-tricks.com/fluid-width-video/ */
+
+.figure-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.code-figure {
+	position: relative;
+	width: calc(90vw - var(--sidebar-width));
+	left: calc(var(--code-figure-offset) * -1);
+	margin: 0 5vw;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+	body {
+		grid-template-columns: 1fr 0px;
+	}
+	main {
+		padding: 0 1rem;
+	}
+	.code-figure {
+		position: static;
+		width: 100%;
+		margin: 0;
+	}
+
+/*Contact Us Section*/
+  input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #ADD8E6;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color:rgb(84, 208, 250);
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+}
+/*NavBar Section*/
+.navbar {
+  overflow: hidden;
+  background-color: rgb(225, 242, 248);
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: #574a4a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: rgb(169, 232, 255);
+  color: black;
+}
+
+.navbar a.active {
+  background-color: rgb(51, 188, 238);
+  color: white;
+}
+
+.navbar .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar a:not(:first-child) {display: none;}
+  .navbar a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar.responsive {position: relative;}
+  .navbar.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+/* Newsletter */
+form {
+  border: 3px solid rgb(169, 232, 255);
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  padding: 20px;
+  background-color: rgb(169, 232, 255);
+}
+
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+input[type=submit] {
+  background-color: rgb(169, 232, 255);
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
