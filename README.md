@@ -67,3 +67,5 @@ W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/ht
 (Building a basic Pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
 
 (How to make a pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
+
+(Goal Setting and General) https://www.w3schools.com/html/html_form_input_types.asp
