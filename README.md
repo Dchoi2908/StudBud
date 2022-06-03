@@ -35,43 +35,9 @@ In terms of the design style, i opted for a top - down method where information 
 In terms of the delivery of information I've kept it fairly simple by headers (h1-3) and using text formatting to emphasise certain words or titles to draw make the text and content more engaging for the audience to read through.
 
 #   References
-CSS-Tricks. (2020). Fluid Width Video. Retrieved from         https://css-tricks.com/fluid-width-video
 
-MeyerWeb. (2021). CSS Tools: Reset CSS. Retrieved from        http://meyerweb.com/eric/tools/css/reset/
+Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 
-Prism. (2021). Customize your Download. Retrived from         https://prismjs.com/download.html#themes=prism-okaidia&      languages=markup+css+clike+javascript
+Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 
-Prism. (2021). Customize your download. Retrieved from        https://prismjs.com/download.html#themes=prism-twilight&      languages=markup+css+clike+javascript+processing
-
-Unsplash. (2015). Party fans raised their hands. Retrieved    from https://unsplash.com/photos/hzgs56Ze49s
-
-Unsplash. (2019). Orchestra. Retrieved from                    https://unsplash.com/photos/4TNd3hsW3PM
-
-Unsplash. (2019). Concert. Retrieved from
-  https://unsplash.com/photos/kECu7uuvlJY
-
-Unsplash. (2016). Boy Singing. Retrieved from
-  https://unsplash.com/photos/ASKeuOZqhYU
-
-Unsplash. (2016). Passion Led Us Here. Retrieved from
-  https://unsplash.com/photos/TamMbr4okv4
-
-Unsplash. (2018). Jewish memorial berlin - human              reconnection between love and hate. Retrieved from
- https://unsplash.com/photos/_UIVmIBB3JU
-
-Unsplash. (2015). Hands on a guitar neck. Retrieved from
-  https://unsplash.com/photos/uLitVttkC7o
-
-Unsplash. (2016). Man looking out a mountain. Retrieved from
-  https://unsplash.com/photos/9qYKMbBCFjc
-
-Unsplash. (2016). Tree with Guess Graffiti. Retrieved from
-  https://unsplash.com/photos/i--IN3cvEjg
-
-W3 Schools. (2021). How TO - Top Navigation. (2021)           Retrieved from                                               https://www.w3schools.com/howto/howto_js_topnav.asp
-
-W3 Schools. (2021). How TO - Contact Form. Retrieved from
-  https://www.w3schools.com/howto/howto_css_contact_form.asp
-
-W3 Schools. (2021). How TO - Email Newsletter. Retrieved from
-  https://www.w3schools.com/howto/howto_css_newsletter.asp
+W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/html5_audio.asp
