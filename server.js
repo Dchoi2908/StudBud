@@ -6,7 +6,7 @@ const app = express();
 app.use(express.static('dist'));
 
 app.get('/', function (req, res) {
-    res.sendFile(__dirname + '/dist/tasklist.html')
+    res.sendFile(__dirname + '/dist/index.html')
 })
 
 let server = app.listen(8888, function () {
