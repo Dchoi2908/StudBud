@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prestart": "parcel build ./public/index.html",
-    "dev": "parcel serve ./public/index.html"
+    "prestart": "parcel build ./public/home.html",
+    "dev": "parcel serve ./public/home.html"
   },
   "repository": {
     "type": "git",
