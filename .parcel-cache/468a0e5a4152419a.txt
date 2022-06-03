@@ -37,7 +37,7 @@
 80C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\json5\lib\require.js132986504161199286 0
 77C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\readdirp\index.js132986517921796566 0
 69C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\svgo132986504310543557 0
-51C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist132987441574416829 1
+51C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist132987443082984974 1
 85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\prefixIds.js132986504158538705 0
 109C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite\data\features\css-read-only-write.js132986504157438441 0
 76C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\is-glob\index.js132986517922816789 0
@@ -117,7 +117,7 @@
 96C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\v8-compile-cache\v8-compile-cache.js132986504190545897 0
 97C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\autoprefixer\lib\hacks\flex-shrink.js132986524685113860 0
 82C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\get-intrinsic\index.js132985640662345001 0
-63C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\script.js132987436939332995 0
+63C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\script.js132987443078593984 0
 96C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\object-inspect\test\indent-option.js132985640662955138 0
 70C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\json5\dist132986504161309315 1
 123C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js132986504202998695 0
@@ -1491,7 +1491,7 @@
 95C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\removeScriptElement.js132986504158848758 0
 88C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\transformer-html\lib132986504179583424 1
 81C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\mime-types\HISTORY.md132985640665085620 0
-76C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js.map132987436941423476 0
+76C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js.map132987443082924954 0
 106C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\node-gyp-build-optional-packages-test.ps1132986504310543557 0
 68C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\lmdb\src132986504161889443 1
 94C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\removeStyleElement.js132986504158868764 0
@@ -5065,5 +5065,5 @@
 70C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\index.c74267d1.css132987281349058698 0
 69C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\index.f3bd186e.js132987271935486953 0
 73C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\index.f3bd186e.js.map132987271935486953 0
-72C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js132987436941423476 0
+72C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js132987443082904947 0
 65C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.html132987441574396826 0
