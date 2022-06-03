@@ -1,3 +1,4 @@
+// Need to edit and reference https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ Might not even need this //
 const wrapper = document.querySelector(".wrapper"),
 searchInput = wrapper.querySelector("input"),
 volume = wrapper.querySelector(".word i"),
