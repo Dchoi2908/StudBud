@@ -41,3 +41,23 @@ Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 
 W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/html5_audio.asp
+
+(W3 Schools, Nav Bar Adjustments) https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_justify-content
+
+(Images) https://www.w3schools.com/html/html_images.asp
+
+(Music Player Inspo) https://codepen.io/Roemerdt/pen/rOqVZx
+
+(Music Player Guidance) https://www.tutorialspoint.com/How-to-add-an-audio-player-to-an-HTML-webpage
+
+(Fonts) https://fonts.google.com/specimen/Inter?query=inter#standard-styles
+
+(Help with Css)https://ishadeed.com/article/practical-css-variables/
+
+(Help with To Do List) https://thecodingpie.medium.com/how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
+
+(Inspiration for TaskBoard) https://codepen.io/Aniboaz/pen/vKOXPa
+
+(Help with Kanban Board) https://karthikdevarticles.com/creating-a-kanban-board-with-html-css-and-javascript#heading-html
+
+(Dictionary Help) https://www.codingnepalweb.com/build-dictionary-app-html-javascript/
