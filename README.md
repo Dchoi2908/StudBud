@@ -61,3 +61,9 @@ W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/ht
 (Help with Kanban Board) https://karthikdevarticles.com/creating-a-kanban-board-with-html-css-and-javascript#heading-html
 
 (Dictionary Help) https://www.codingnepalweb.com/build-dictionary-app-html-javascript/
+
+(Help with Pomodoro) https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c
+
+(Building a basic Pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
+
+(How to make a pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
