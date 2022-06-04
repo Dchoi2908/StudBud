@@ -529,7 +529,8 @@ body {
 .wrapper {
   width: 420px;
   background: #fff;
-  border-radius: 7px;
+  border: #b5e3f3;
+  border-radius: 10px;
   padding: 25px 28px 45px;
   box-shadow: 7px 7px 20px #0000000d;
 }
@@ -738,12 +739,10 @@ ul .content::-webkit-scrollbar {
   font-size: 18px;
 }
 
-#buttons button#quickBreak {
-  background: #a2cddb;
-}
-
-#buttons button#longBreak, #buttons button#reset {
-  background: #b5e3f3;
+#buttons button#quickBreak, #buttons button#longBreak, #buttons button#reset {
+  color: #b5e3f3;
+  background: #fdfdfd;
+  border: none;
 }
 
 /*# sourceMappingURL=home.c74267d1.css.map */
