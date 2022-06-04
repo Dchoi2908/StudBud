@@ -515,7 +515,7 @@ i {
 
 body {
   min-height: 100vh;
-  background: #4d59fb;
+  background: #b5e3f3;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -523,12 +523,12 @@ body {
 
 ::selection {
   color: #fff;
-  background: #4d59fb;
+  background: #b5e3f3;
 }
 
 .wrapper {
   width: 420px;
-  background: #817f7f;
+  background: #fff;
   border-radius: 7px;
   padding: 25px 28px 45px;
   box-shadow: 7px 7px 20px #0000000d;
@@ -548,7 +548,7 @@ body {
 .search input {
   height: 53px;
   width: 100%;
-  border: 1px solid #999;
+  border: 1px solid #fff;
   border-radius: 5px;
   outline: none;
   padding: 0 42px;
@@ -556,16 +556,16 @@ body {
 }
 
 .search input:focus {
-  border: 2px solid #4d59fb;
+  border: 2px solid #b5e3f3;
   padding: 0 41px;
 }
 
 .search input::placeholder {
-  color: #b8b8b8;
+  color: #b5e3f3;
 }
 
 .search :where(i, span) {
-  color: #999;
+  color: #b5e3f3;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -578,7 +578,7 @@ body {
 }
 
 .search input:focus ~ i {
-  color: #4d59fb;
+  color: #b5e3f3;
 }
 
 .search span {
@@ -593,7 +593,7 @@ body {
 }
 
 .wrapper .info-text {
-  color: #9a9a9a;
+  color: #b5e3f3;
   margin: -3px 0 -10px;
   font-size: 13px;
 }
