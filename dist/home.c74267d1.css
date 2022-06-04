@@ -141,14 +141,14 @@ body {
 .kanban-heading {
   flex-direction: row;
   justify-content: center;
-  font-family: sans-serif;
+  font-family: Inter, sans-serif;
   display: flex;
 }
 
 .kanban-board {
   flex-direction: row;
   justify-content: space-between;
-  font-family: sans-serif;
+  font-family: Inter, sans-serif;
   display: flex;
 }
 
@@ -476,10 +476,6 @@ i {
 
 .player .music .song-1 .info .img.third, .player .music .song-2 .info .img.third, .player .music .song-3 .info .img.third, .player .music .song-4 .info .img.third {
   background: url("https://static.wikia.nocookie.net/justin-bieber/images/a/a4/Stay.jpg/") center / cover;
-}
-
-.player .music .song-1 .info .img.fourth, .player .music .song-2 .info .img.fourth, .player .music .song-3 .info .img.fourth, .player .music .song-4 .info .img.fourth {
-  background: url("http://djrichiep.us/wp-content/uploads/2014/06/princelgc7F.jpg") center / cover;
 }
 
 .player .music .song-1 .info .titles h5, .player .music .song-1 .info .titles p, .player .music .song-2 .info .titles h5, .player .music .song-2 .info .titles p, .player .music .song-3 .info .titles h5, .player .music .song-3 .info .titles p, .player .music .song-4 .info .titles h5, .player .music .song-4 .info .titles p {
