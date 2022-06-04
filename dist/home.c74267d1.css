@@ -692,9 +692,9 @@ ul .content::-webkit-scrollbar {
   text-align: center;
   background: #b5e3f3;
   border: 1px solid #b5e3f3;
-  border-radius: 20px;
+  border-radius: 25px;
   margin: 20px auto;
-  padding: 20px;
+  padding: 25px;
 }
 
 #timer {
@@ -703,9 +703,9 @@ ul .content::-webkit-scrollbar {
   height: 200px;
   user-select: none;
   cursor: default;
-  border: 5px solid #7ddcac;
+  border: 10px solid #7ddcac;
   border-radius: 50%;
-  margin: 10px auto;
+  margin: 12px auto;
   font-size: 50px;
   position: relative;
   overflow: hidden;
@@ -718,7 +718,7 @@ ul .content::-webkit-scrollbar {
 }
 
 #filler {
-  height: 0;
+  height: 1px;
   width: 200px;
   background: #dfc;
   position: absolute;
@@ -728,21 +728,21 @@ ul .content::-webkit-scrollbar {
 #buttons button {
   color: #b5e3f3;
   cursor: pointer;
-  width: 90px;
+  width: 100px;
   height: 50px;
   background: #fff;
   border: none;
   border-radius: 50px;
-  margin: 10px auto;
-  padding: 5px;
-  font-size: 14px;
+  margin: 15px auto;
+  padding: 10px;
+  font-size: 18px;
 }
 
-#buttons button#QuickBreak {
+#buttons button#quickBreak {
   background: #a2cddb;
 }
 
-#buttons button#longBreak, #buttons button#Reset {
+#buttons button#longBreak, #buttons button#reset {
   background: #b5e3f3;
 }
 
