@@ -690,7 +690,7 @@ ul .content::-webkit-scrollbar {
 
 #container {
   width: 400px;
-  text-align: absolute;
+  text-align: center;
   background: #b5e3f3;
   border: 1px solid #b5e3f3;
   border-radius: 25px;
@@ -702,27 +702,27 @@ ul .content::-webkit-scrollbar {
   color: #7ddcac;
   width: 200px;
   height: 200px;
+  position: center;
   user-select: none;
   cursor: default;
   border: 10px solid #7ddcac;
   border-radius: 50%;
   margin: 12px auto;
   font-size: 50px;
-  position: relative;
   overflow: hidden;
 }
 
 #time {
   z-index: 1;
+  position: center;
   margin-top: 70px;
-  position: relative;
 }
 
 #filler {
   height: 1px;
   width: 200px;
+  position: center;
   background: #dfc;
-  position: absolute;
   bottom: 0;
 }
 
@@ -740,6 +740,7 @@ ul .content::-webkit-scrollbar {
 }
 
 #buttons button#quickBreak, #buttons button#longBreak, #buttons button#reset {
+  position: center;
   color: #b5e3f3;
   background: #fdfdfd;
   border: none;
