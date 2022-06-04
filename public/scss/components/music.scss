@@ -1,7 +1,7 @@
 // Reference https://codepen.io/Roemerdt/pen/rOqVZx// 
 
-$primary: #F44336;
-$secondary: #03A9F4;
+$primary: rgb(181, 227, 243);
+$secondary: #ffffff;
 
 html {
     font-family: sans-serif;
@@ -13,8 +13,8 @@ html, body {
 	margin: 0;
 	height: 100%;
 	align-items: center;
-    color: #333;
-    font-family: "Roboto",sans-serif;
+    color: rgb(181, 227, 243);
+    font-family: 'Inter', sans-serif;
     font-size: 1em;
     -webkit-font-smoothing: antialiased;
     line-height: 1em;
@@ -207,7 +207,7 @@ i {
 				.img {
 					width: 60px;
 					height: 60px;
-					background: red;
+					background: rgb(181, 227, 243);
 					margin-right: 10px;
 				}
 				
@@ -217,7 +217,7 @@ i {
 				}
 				
 				.img.second {
-					background: url(https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg) center center;
+					background: url(https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie_Puth_-_Light_Switch.png) center center;
 					background-size: cover;
 				}
 				
