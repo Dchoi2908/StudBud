@@ -722,7 +722,7 @@ ul .content::-webkit-scrollbar {
   height: 1px;
   width: 200px;
   background: #dfc;
-  position: relative;
+  position: absolute;
   bottom: 0;
 }
 
