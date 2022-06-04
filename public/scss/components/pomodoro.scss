@@ -18,7 +18,7 @@
     width:200px;
     height:200px;
     overflow:hidden;
-    position:relative;
+    position:center;
     user-select: none;
     cursor:default;
   }
@@ -26,14 +26,14 @@
   #time{
     margin-top:70px;
     z-index : 1;
-    position:relative;
+    position:center;
   }
   
   #filler{
     background : #ddffcc;
     height: 1px;
     width: 200px;
-    position:absolute;
+    position:center;
     bottom:0;
   }
   
@@ -53,18 +53,21 @@
   #buttons button#quickBreak{
     background : rgb(253, 253, 253);
     border: none;
+    position: center;
     color:rgb(181, 227, 243); 
   }
   
   #buttons button#longBreak{
     background : rgb(253, 253, 253);
     border: none;
+    position: center;
     color:rgb(181, 227, 243); 
   }
   
   #buttons button#reset{
     background : rgb(253, 253, 253);
     border: none;
+    position: center;
     color:rgb(181, 227, 243); 
   }
   
