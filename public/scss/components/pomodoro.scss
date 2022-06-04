@@ -1,10 +1,10 @@
 // Need to Edit!!!!!!//
 #container{
     border:1px solid rgb(181, 227, 243);
-    border-radius :20px;
+    border-radius :25px;
     width:400px;
     margin:20px auto;
-    padding:20px;
+    padding:25px;
     text-align:center;
     background : rgb(181, 227, 243);
   }
@@ -12,16 +12,13 @@
   #timer{ 
     color:rgb(125, 220, 172); 
     font-size:50px; 
-    margin:10px auto;
-    border : 5px solid rgb(125, 220, 172); 
+    margin:12px auto;
+    border : 10px solid rgb(125, 220, 172); 
     border-radius:50%;
     width:200px;
     height:200px;
     overflow:hidden;
     position:relative;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     user-select: none;
     cursor:default;
   }
@@ -34,7 +31,7 @@
   
   #filler{
     background : #ddffcc;
-    height: 0px;
+    height: 1px;
     width: 200px;
     position:absolute;
     bottom:0;
@@ -45,15 +42,15 @@
     border:none; 
     color:rgb(181, 227, 243); 
     cursor:pointer; 
-    padding:5px; 
-    width:90px; 
-    margin:10px auto;
-    font-size:14px;
+    padding:10px; 
+    width:100px; 
+    margin:15px auto;
+    font-size:18px;
     height : 50px;
     border-radius : 50px;
   }
   
-  #buttons button#QuickBreak{
+  #buttons button#quickBreak{
     background : rgb(162, 205, 219);
   }
   
@@ -61,7 +58,7 @@
     background : rgb(181, 227, 243);
   }
   
-  #buttons button#Reset{
+  #buttons button#reset{
     background : rgb(181, 227, 243);
   }
   
