@@ -1,19 +1,19 @@
 // Need to Edit!!!!!!//
 #container{
-    border:1px solid #333;
+    border:1px solid rgb(181, 227, 243);
     border-radius :20px;
     width:400px;
     margin:20px auto;
     padding:20px;
     text-align:center;
-    background : #333;
+    background : rgb(181, 227, 243);
   }
   
   #timer{ 
-    color:#f00; 
+    color:rgb(125, 220, 172); 
     font-size:50px; 
     margin:10px auto;
-    border : 5px solid red;
+    border : 5px solid rgb(125, 220, 172); 
     border-radius:50%;
     width:200px;
     height:200px;
@@ -41,9 +41,9 @@
   }
   
   #buttons button { 
-    background:#4da6ff; 
+    background:#ffffff; 
     border:none; 
-    color:#fff; 
+    color:rgb(181, 227, 243); 
     cursor:pointer; 
     padding:5px; 
     width:90px; 
@@ -53,15 +53,15 @@
     border-radius : 50px;
   }
   
-  #buttons button#shortBreak{
-    background : #0c0;
+  #buttons button#QuickBreak{
+    background : rgb(162, 205, 219);
   }
   
   #buttons button#longBreak{
-    background : #080;
+    background : rgb(181, 227, 243);
   }
   
-  #buttons button#stop{
-    background : #f00;
+  #buttons button#Reset{
+    background : rgb(181, 227, 243);
   }
   
