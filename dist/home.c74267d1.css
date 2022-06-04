@@ -690,7 +690,7 @@ ul .content::-webkit-scrollbar {
 
 #container {
   width: 400px;
-  text-align: center;
+  text-align: absolute;
   background: #b5e3f3;
   border: 1px solid #b5e3f3;
   border-radius: 25px;
