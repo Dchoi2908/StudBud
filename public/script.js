@@ -1,3 +1,5 @@
+//Reference ___ //
+// Dictionary JS//
 // Need to edit this and Pomodoro //
 const wrapper = document.querySelector(".wrapper"),
 searchInput = wrapper.querySelector("input"),
@@ -66,6 +68,7 @@ removeIcon.addEventListener("click", ()=>{
 });
 
 // Need to Edit//
+// Pomodoro JS //
 var pomodoro = {
     started : false,
     minutes : 0,

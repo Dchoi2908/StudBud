@@ -17,12 +17,13 @@ This was definitely a challenge that i had to overcome and after much considerat
 
 # Changes to Design
 * __Add in an option for people to go Home __
-* __Switch the Position of Dashboard otherwise known as Kanban or Task Board with Study Session, as many students i interviewed liked the idea of a virtual Study session as there are many Kanban boards available online.__
-* __Simplify the Dashboard.__
+* __Switch the Position of Dashboard otherwise known as Kanban or Task Board with Study Session, as many students i interviewed liked the idea of a virtual Study session as there are many Kanban boards available online __
+* __Simplify the Dashboard __
+* __ Make the Dictionary & Pomodoro Timer, bigger buttons so they're easy to track.
 
 
 # A3 --> A5 Changes
-This was how my A3 looked like. In comparison to this prototype. The New Version only has 3 components in the Nav Bar, which include Home where it has a brief overview of the charity & its music programs, the abouts page where it has more about the charity and more links to contact the charity and finally the sponsor page where users can see how see how sponsoring can help the charity. It also has a newsletter link that users can input to be part of the monthly newsletter for the charity patrons and general audience.
+
 ![Previous version of Figma Image](read.me.images/figma.png)
 Key Changes
   * __Nav Bar__, The Nav Bar was reduced to 3 options (Home, About & Sponsor Page)
@@ -38,7 +39,11 @@ In terms of the delivery of information I've kept it fairly simple by headers (h
 
 Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 
-Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
+Unsplash. (2017). Ideas waiting to be had. Retrieved from https://unsplash.com/photos/-1_RZL8BGBM
+
+Unsplash. (2017). Chill Time. Retrieved from https://unsplash.com/photos/UF2-gL3q-38
+
+Unsplash. (2018). Paint. Retrieved from https://unsplash.com/photos/46juD4zY1XA
 
 W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/html5_audio.asp
 

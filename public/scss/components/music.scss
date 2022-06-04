@@ -1,7 +1,7 @@
 // Reference https://codepen.io/Roemerdt/pen/rOqVZx// 
 
-$primary: #F44336;
-$secondary: #03A9F4;
+$primary: #ffffff;
+$secondary: rgb(181, 227, 243);
 
 html {
     font-family: 'Inter', sans-serif;
@@ -13,7 +13,7 @@ html, body {
 	margin: 0;
 	height: 100%;
 	align-items: center;
-    color: #333;
+    color: rgb(181, 227, 243);
     font-family: 'Inter', sans-serif;
     font-size: 1em;
     -webkit-font-smoothing: antialiased;
@@ -37,7 +37,7 @@ i {
 
 .player {
 	overflow: hidden;
-	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.6);
+	box-shadow: 0px 2px 10px rgb(181, 227, 243);
 	position: relative;
 	width: 320px;
 	height: 510px;
@@ -49,7 +49,7 @@ i {
 		z-index: 1;
 		width: 320px;
 		height: 250px;
-		background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(http://static.stereogum.com/blogs.dir/2/files/2011/12/Adele-21.jpg) center bottom;
+		background: linear-gradient(rgb(181, 227, 243);, rgb(181, 227, 244);)), url(http://static.stereogum.com/blogs.dir/2/files/2011/12/Adele-21.jpg) center bottom;
 		background-size: cover;
 	}
 	
@@ -135,7 +135,7 @@ i {
 			position: relative;
 			height: 2px;
 			margin: 30px 20px 0px 20px;
-			background: rgba(255, 255, 255, 0.3);
+			background: rgb(181, 227, 243);
 			
 			.played {
 				width: 20%;
@@ -150,7 +150,7 @@ i {
 					border-radius: 50%;
 					margin-left: 52px;
 					margin-top: -4px;
-					box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+					box-shadow: 0px 0px 10px rgb(181, 227, 243);
 				}
 			}
 		}
@@ -190,7 +190,7 @@ i {
 	
 	.music {
 		padding: 10px 20px 0px 20px;
-		background: #1A1B1E;
+		background: rgb(181, 227, 243);
 		margin-top: -26px;
 		
 		.song-1, .song-2, .song-3, .song-4 {
@@ -198,7 +198,7 @@ i {
 			display: flex;
 			justify-content: space-between;
 			align-items: center;
-			border-bottom: 1px solid rgba(255 , 255, 255, 0.2);
+			border-bottom: 1px solid rgb(181, 227, 243);
 			
 			.info {
 				display: flex;
@@ -212,7 +212,7 @@ i {
 				}
 				
 				.img.first {
-					background: url(http://static.stereogum.com/blogs.dir/2/files/2011/12/Adele-21.jpg) center center;
+					background: url(https://static.wikia.nocookie.net/justin-bieber/images/2/23/Justice.jpg/revision/latest/scale-to-width-down/350?cb=20210226170347) center center;
 					background-size: cover;
 				}
 				
