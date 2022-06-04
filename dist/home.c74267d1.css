@@ -714,8 +714,8 @@ ul .content::-webkit-scrollbar {
 
 #time {
   z-index: 1;
-  position: center;
   margin-top: 70px;
+  position: relative;
 }
 
 #filler {
@@ -740,7 +740,6 @@ ul .content::-webkit-scrollbar {
 }
 
 #buttons button#quickBreak, #buttons button#longBreak, #buttons button#reset {
-  position: center;
   color: #b5e3f3;
   background: #fdfdfd;
   border: none;
