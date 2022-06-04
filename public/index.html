@@ -10,8 +10,9 @@
   <link href="scss/main.scss" rel="stylesheet" type ="text/css">
 </head>
 
-<body class="app-container">
 
+<body class="app-container">
+<!-- Reference to Nav Bar https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_justify-content -->
   <nav class="vertical top-nav">
       <ul class="nav-links">
           <li class="nav-items"><a href="home.html"> Home </a></li>
@@ -26,6 +27,9 @@
       <p>Hi Alex, Welcome to StudBud...</p>  
 </div>
 
+<!-- Reference to entire section of the Music player - https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c -->
+
+<!-- Part 1 of Music Player -->
 <div class="player">
 	<div class="cover"></div>
 	<nav>
@@ -59,10 +63,9 @@
 		</div>
 	</div>
 
-	<!-- // Reference https://codepen.io/Roemerdt/pen/rOqVZx//  -->
-  <!-- Music Player -->
+  <!-- Music Player Part 2 -->
 <div class="btn">
-<!-- 		<i class="material-icons">shuffle</i> -->
+	<i class="material-icons">shuffle</i>
 	</div>
 	<div class="music">
 		<div class="song-1">
@@ -117,16 +120,16 @@
 </div>
 
 <!-- // Reference https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ // -->
-<!-- Dictionary -->
 
+<!-- Dictionary -->
 <div class="wrapper">
   <header>English Dictionary</header>
   <div class="search">
-    <input type="text" placeholder="Search a word" required spellcheck="false">
+    <input type="text" placeholder="Type in your word here" required spellcheck="false">
     <i class="fas fa-search"></i>
     <span class="material-icons">close</span>
   </div>
-  <p class="info-text">Type any existing word and press enter to get meaning, example, synonyms, etc.</p>
+  <p class="info-text"> Type in a word to find out its meaning and an example of how that word is used.</p>
   <ul>
     <li class="word">
       <div class="details">
@@ -157,6 +160,7 @@
     </div>
   </ul>
 </div>
+
 <!-- // Reference to Pomodoro Idea - https://codepen.io/rajdgreat007/pen/edvZpx // -->
 <!-- Pomodoro Timer -->
 <div id="pomodoro-app">

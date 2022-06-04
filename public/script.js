@@ -1,4 +1,4 @@
-//Reference https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ //
+//Reference to JS - https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ //
 
 // Dictionary JS//
 const wrapper = document.querySelector(".wrapper"),

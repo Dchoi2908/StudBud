@@ -60,13 +60,9 @@ Coding Nepal. (2021). Build A Dictionary App in HTML CSS & JavaScript. Retrieved
   codingnepalweb.com/build-dictionary-app-html-javascript/
 
 CodePen. (2022). Kanban Board. Retrieved from https://codepen.io/Aniboaz/pen/vKOXPa
-(Help with Pomodoro) https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c
 
 CodePen. (2022). CodePen Home Pomodoro Timer :: Javascript. Retrieved from https://codepen.io/
   rajdgreat007/pen/edvZpx
-
-Coding Nepal. (2021). Build A Dictionary App in HTML CSS & JavaScript. Retrieved from https://www.
-  codingnepalweb.com/build-dictionary-app-html-javascript/
 
 Google Fonts. (2022). Inter. Retrieved from https://fonts.google.com/specimen/Inter?
   query=inter#standard-styles
@@ -74,11 +70,15 @@ Google Fonts. (2022). Inter. Retrieved from https://fonts.google.com/specimen/In
 Ishadeed. (2017). Practical Use Cases For CSS Variables. Retrieved from https://ishadeed.com/article/
   practical-css-variables/
 
-Karthik Dev Articles. (2021). Creating a Kanban Board with HTML, CSS & JavaScript. Retrieved from 
-  https://karthikdevarticles.com/creating-a-kanban-board-with-html-css-and-javascript#heading-html
+Medium. (2021). Build a Pomodoro Timer using HTML, CSS, and JavaScript. 
+  Retrieved from https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c
 
-Mediums. (2020). How to Build a Todo List App With Javascript and Local Storage. Retrieveed from 
-  https://thecodingpie.medium.com/  how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
+Karthik Dev Articles. (2021). Creating a Kanban Board with HTML, CSS & 
+  JavaScript. Retrieved from https://karthikdevarticles.com/
+  creating-a-kanban-board-with-html-css-and-javascript#heading-html
+
+Mediums. (2020). How to Build a Todo List App With Javascript and Local 
+  Storage. Retrieveed from ttps://thecodingpie.medium.com how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
 
 Tutorial Points. (2022). How to add an audio player to an HTML webpage?. Retrieved from https://www.
   tutorialspoint.com/How-to-add-an-audio-player-to-an-HTML-webpage
@@ -93,8 +93,8 @@ Unsplash. (2018). Paint. Retrieved from https://unsplash.com/photos/46juD4zY1XA
 
 W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/html5_audio.asp
 
-W3 Schools. (2022) Nav Bar Adjustments. Retrieved from https://www.w3schools.com/cssref/tryit.asp?
-  filename=trycss3_justify-content
+W3 Schools. (2022) Nav Bar Adjustments. Retrieved from https://www.
+  w3schools.com/cssref/tryit.asp?filename=trycss3_justify-content
 
 W3 Schools. (2022). HTML Images. Retrieved from https://www.w3schools.com/html/html_images.asp
 
