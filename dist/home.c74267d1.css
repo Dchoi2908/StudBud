@@ -549,7 +549,7 @@ body {
 .search input {
   height: 53px;
   width: 100%;
-  border: 1px solid #fff;
+  border: 3px solid #b5e3f3;
   border-radius: 5px;
   outline: none;
   padding: 0 42px;
@@ -621,7 +621,7 @@ body {
 }
 
 .wrapper ul li {
-  border-bottom: 1px solid #888383;
+  border-bottom: 1px solid #b5e3f3;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 14px;
@@ -642,7 +642,7 @@ ul .word p {
 }
 
 ul .word span {
-  color: #989898;
+  color: #b5e3f3;
   font-size: 12px;
 }
 
@@ -662,7 +662,7 @@ ul .content::-webkit-scrollbar {
 }
 
 .content li .details {
-  border-left: 3px solid #4d59fb;
+  border-left: 3px solid #b5e3f3;
   border-radius: 4px 0 0 4px;
   padding-left: 10px;
 }
