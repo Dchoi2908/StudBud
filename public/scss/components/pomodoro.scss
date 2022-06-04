@@ -26,7 +26,7 @@
   #time{
     margin-top:70px;
     z-index : 1;
-    position:center;
+    position:relative;
   }
   
   #filler{
@@ -53,21 +53,18 @@
   #buttons button#quickBreak{
     background : rgb(253, 253, 253);
     border: none;
-    position: center;
     color:rgb(181, 227, 243); 
   }
   
   #buttons button#longBreak{
     background : rgb(253, 253, 253);
     border: none;
-    position: center;
     color:rgb(181, 227, 243); 
   }
   
   #buttons button#reset{
     background : rgb(253, 253, 253);
     border: none;
-    position: center;
     color:rgb(181, 227, 243); 
   }
   
