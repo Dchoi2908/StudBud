@@ -258,11 +258,11 @@ html {
 
 html, body {
   height: 100%;
-  color: #333;
+  color: #b5e3f3;
   -webkit-font-smoothing: antialiased;
   align-items: center;
   margin: 0;
-  font-family: Roboto, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 1em;
   line-height: 1em;
 }
@@ -396,14 +396,14 @@ i {
 .player .player-ui .progress .played {
   width: 20%;
   height: 2px;
-  background: #f44336;
+  background: #b5e3f3;
   position: absolute;
 }
 
 .player .player-ui .progress .played .circle {
   width: 10px;
   height: 10px;
-  background: #f44336;
+  background: #b5e3f3;
   border-radius: 50%;
   margin-top: -4px;
   margin-left: 52px;
@@ -462,7 +462,7 @@ i {
 .player .music .song-1 .info .img, .player .music .song-2 .info .img, .player .music .song-3 .info .img, .player .music .song-4 .info .img {
   width: 60px;
   height: 60px;
-  background: red;
+  background: #b5e3f3;
   margin-right: 10px;
 }
 
@@ -471,7 +471,7 @@ i {
 }
 
 .player .music .song-1 .info .img.second, .player .music .song-2 .info .img.second, .player .music .song-3 .info .img.second, .player .music .song-4 .info .img.second {
-  background: url("https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg") center / cover;
+  background: url("https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie_Puth_-_Light_Switch.png") center / cover;
 }
 
 .player .music .song-1 .info .img.third, .player .music .song-2 .info .img.third, .player .music .song-3 .info .img.third, .player .music .song-4 .info .img.third {
@@ -499,7 +499,7 @@ i {
 }
 
 .player .music .song-1 .state.playing i, .player .music .song-2 .state.playing i, .player .music .song-3 .state.playing i, .player .music .song-4 .state.playing i {
-  color: #f44336;
+  color: #b5e3f3;
 }
 
 .player .music .song-1 .state i, .player .music .song-2 .state i, .player .music .song-3 .state i, .player .music .song-4 .state i {
