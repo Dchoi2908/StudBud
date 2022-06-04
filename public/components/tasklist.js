@@ -1,4 +1,4 @@
-// Tasklist.Js was Modelled from Week 9 Content//
+// Tasklist.Js reference to DECO2017 Week 9 Content//
 
 // Basic form DOM elements
 const form = document.getElementById("taskform");

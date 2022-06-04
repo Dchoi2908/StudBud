@@ -1,3 +1,4 @@
+// Tasklist scss reference to DECO2017 Week 9 content //
 body {
     background-color: white;
   }
@@ -14,14 +15,14 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
   
   .kanban-board {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
   
   .kanban-heading-text {
