@@ -1,7 +1,6 @@
-//Reference ___ //
+//Reference https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ //
 
 // Dictionary JS//
-// Need to edit this and Pomodoro //
 const wrapper = document.querySelector(".wrapper"),
 searchInput = wrapper.querySelector("input"),
 volume = wrapper.querySelector(".word i"),
@@ -68,7 +67,7 @@ removeIcon.addEventListener("click", ()=>{
     infoText.innerHTML = "Type any existing word and press enter to get meaning, example, synonyms, etc.";
 });
 
-// Need to Edit//
+// Reference of JS to https://codepen.io/rajdgreat007/pen/edvZpx //
 // Pomodoro JS //
 var pomodoro = {
     started : false,

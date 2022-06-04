@@ -1,6 +1,5 @@
-//Reference ___ //
+//Reference https://www.codingnepalweb.com/build-dictionary-app-html-javascript/ //
 // Dictionary JS//
-// Need to edit this and Pomodoro //
 const wrapper = document.querySelector(".wrapper"), searchInput = wrapper.querySelector("input"), volume = wrapper.querySelector(".word i"), infoText = wrapper.querySelector(".info-text"), synonyms = wrapper.querySelector(".synonyms .list"), removeIcon = wrapper.querySelector(".search span");
 let audio;
 function data(result, word) {
@@ -56,7 +55,7 @@ removeIcon.addEventListener("click", ()=>{
     infoText.style.color = "#9A9A9A";
     infoText.innerHTML = "Type any existing word and press enter to get meaning, example, synonyms, etc.";
 });
-// Need to Edit//
+// Reference of JS to https://codepen.io/rajdgreat007/pen/edvZpx //
 // Pomodoro JS //
 var pomodoro = {
     started: false,
@@ -140,4 +139,4 @@ window.onload = function() {
     pomodoro.init();
 };
 
-//# sourceMappingURL=tasklist.f3bd186e.js.map
+//# sourceMappingURL=index.f3bd186e.js.map

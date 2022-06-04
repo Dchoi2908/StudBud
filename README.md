@@ -22,20 +22,66 @@ This was definitely a challenge that i had to overcome and after much considerat
 * __ Make the Dictionary & Pomodoro Timer, bigger buttons so they're easy to track.
 
 
-# A3 --> A5 Changes
+# A2 --> A3 Final Changes
 
-![Previous version of Figma Image](read.me.images/figma.png)
-Key Changes
-  * __Nav Bar__, The Nav Bar was reduced to 3 options (Home, About & Sponsor Page)
-  * __Changes in Pages__, As a result of the Nav Bar changing the events & programs page was embedded into the new 3 pages. The events and its information were redirected to the Charities Social media platforms which were linked at the bottom of each page so that visitors can keep track of the charity events. The contacts page also disappeared and was also embedded into all the Home, About Us and Sponsor Us page so that users regardless of whether they want to join a musical program or sponsor can contact the charity easily.
-  * __Removal of unessential features__, To keep the website simple, the content on the programs page was simplified where overview of the program was provided on the home page and similarly to the contacts option, visitors could choose the instruments they wanted to learn more about and contact the charity in the form of an expression of interest.
+  * __Home Page__, With the addition of it provides subtle onboarding to StudBud and the key features StudBud provides to its users. 
+  * __Changes in Pages__, 
+  - The Dashboard has changed to something really simple with just a task managemer/Kanban Board. 
+  - The Study Session doesn't include a video anymore in the background. Having too many moving compartments (Timer + Video + Dictionary) might be too much for the user to comprehend so the background was kept simple and consistent with a white background.
+  - Home Page has a quick introduction and pictures to guide users to what the purpose of the features are.
+  * __Removal of unessential features__,
+  - While the proposal included Study tools such as a Goal Setter, i decided to leave this out as visually the 3 main features Music Player, Dictionary & Pomodoro Timer looked more simple centred in the page.
 
 # Design Style
-In terms of the design style, i opted for a top - down method where information was given to the users from the top till down. I used a colour palette between a blue, grey and white so that.
+In terms of the design style, i opted for a top - down method where information was given to the users from the top till down. I used a simple colour palette of Light Blue and White with Green for contrast.
 
-In terms of the delivery of information I've kept it fairly simple by headers (h1-3) and using text formatting to emphasise certain words or titles to draw make the text and content more engaging for the audience to read through.
+While i did test a nav bar on the top, i found that having the nav bar on the side looked more natural than having the nav bar on the top.
+
+# Areas for Improvement/Development
+
+1. Nav bar
+- Instead of just a word, this nav bar can be further developed with interactive buttons that hover between coloured (Blue) and white that change when a user hovers over the button.
+
+2. Dashboard
+- With further development, the tasklist can include colours based on priority so that users can distinguish between high priority and low priority tasks better instead of relying on just the words "Low" & "High priority".
+
+3. Home Page
+- Videos/Tutorials of how to use features of StudBud would benefit users with being able to use StudBud better and also give the Home page more purpose than just outlining key features and onboarding.
+- Linking the Features to the pages would also help usability of the StudBud program.
+
+4. Study Session
+- To further eliminate distractions when studying, allowing an option to minimise the key features (Music Player, Dictionary and Timer) can help users remain more focused.
+- Timer --> Add music/sounds to when the timer ends for better user feedback.
+
 
 #   References
+
+Coding Nepal. (2021). Build A Dictionary App in HTML CSS & JavaScript. Retrieved from https://www.
+  codingnepalweb.com/build-dictionary-app-html-javascript/
+
+CodePen. (2022). Kanban Board. Retrieved from https://codepen.io/Aniboaz/pen/vKOXPa
+(Help with Pomodoro) https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c
+
+CodePen. (2022). CodePen Home Pomodoro Timer :: Javascript. Retrieved from https://codepen.io/
+  rajdgreat007/pen/edvZpx
+
+Coding Nepal. (2021). Build A Dictionary App in HTML CSS & JavaScript. Retrieved from https://www.
+  codingnepalweb.com/build-dictionary-app-html-javascript/
+
+Google Fonts. (2022). Inter. Retrieved from https://fonts.google.com/specimen/Inter?
+  query=inter#standard-styles
+
+Ishadeed. (2017). Practical Use Cases For CSS Variables. Retrieved from https://ishadeed.com/article/
+  practical-css-variables/
+
+Karthik Dev Articles. (2021). Creating a Kanban Board with HTML, CSS & JavaScript. Retrieved from 
+  https://karthikdevarticles.com/creating-a-kanban-board-with-html-css-and-javascript#heading-html
+
+Mediums. (2020). How to Build a Todo List App With Javascript and Local Storage. Retrieveed from 
+  https://thecodingpie.medium.com/  how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
+
+Tutorial Points. (2022). How to add an audio player to an HTML webpage?. Retrieved from https://www.
+  tutorialspoint.com/How-to-add-an-audio-player-to-an-HTML-webpage
 
 Unsplash. (2020). Tools. Retrieved from https://unsplash.com/photos/noOXRT9gfQ8
 
@@ -47,30 +93,18 @@ Unsplash. (2018). Paint. Retrieved from https://unsplash.com/photos/46juD4zY1XA
 
 W3 Schools. (2022). HTML Audio. Retrieved from https://www.w3schools.com/html/html5_audio.asp
 
-(W3 Schools, Nav Bar Adjustments) https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_justify-content
+W3 Schools. (2022) Nav Bar Adjustments. Retrieved from https://www.w3schools.com/cssref/tryit.asp?
+  filename=trycss3_justify-content
 
-(Images) https://www.w3schools.com/html/html_images.asp
+W3 Schools. (2022). HTML Images. Retrieved from https://www.w3schools.com/html/html_images.asp
 
-(Music Player Inspo) https://codepen.io/Roemerdt/pen/rOqVZx
+W3 Schools. (2022). HTML Input Types. Retrieved from https://www.w3schools.com/html/
+  html_form_input_types.asp
 
-(Music Player Guidance) https://www.tutorialspoint.com/How-to-add-an-audio-player-to-an-HTML-webpage
+  Wikia. (2022). Justice. Retrieved from https://static.wikia.nocookie.net/justin-bieber/images/2/23/
+  Justice.jpg
 
-(Fonts) https://fonts.google.com/specimen/Inter?query=inter#standard-styles
+Wikia. (2022). Stay. Retrieved from https://static.wikia.nocookie.net/justin-bieber/images/a/a4/Stay.
+  jpg/
 
-(Help with Css)https://ishadeed.com/article/practical-css-variables/
-
-(Help with To Do List) https://thecodingpie.medium.com/how-to-build-a-todo-list-app-with-javascript-and-local-storage-a884f4ea3ec
-
-(Inspiration for TaskBoard) https://codepen.io/Aniboaz/pen/vKOXPa
-
-(Help with Kanban Board) https://karthikdevarticles.com/creating-a-kanban-board-with-html-css-and-javascript#heading-html
-
-(Dictionary Help) https://www.codingnepalweb.com/build-dictionary-app-html-javascript/
-
-(Help with Pomodoro) https://javascript.plainenglish.io/build-a-pomodoro-timer-using-html-css-and-javascript-7a7a8410052c
-
-(Building a basic Pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
-
-(How to make a pomodoro) https://codepen.io/rajdgreat007/pen/edvZpx
-
-(Goal Setting and General) https://www.w3schools.com/html/html_form_input_types.asp
+Wikimedia. (2022). Charlie Puth Light Switch. Retrieved from https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie_Puth_-_Light_Switch.png
