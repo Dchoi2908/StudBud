@@ -702,13 +702,13 @@ ul .content::-webkit-scrollbar {
   color: #7ddcac;
   width: 200px;
   height: 200px;
-  position: center;
   user-select: none;
   cursor: default;
   border: 10px solid #7ddcac;
   border-radius: 50%;
   margin: 12px auto;
   font-size: 50px;
+  position: relative;
   overflow: hidden;
 }
 
@@ -721,8 +721,8 @@ ul .content::-webkit-scrollbar {
 #filler {
   height: 1px;
   width: 200px;
-  position: center;
   background: #dfc;
+  position: relative;
   bottom: 0;
 }
 
