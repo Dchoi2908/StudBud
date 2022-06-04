@@ -1,4 +1,4 @@
-5063
+5056
 102C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\htmlnano\lib\modules\collapseWhitespace.js132986504158708731 0
 56C:\Users\danie\Documents\USYD\DECO2017\StudBud\server.js132987343409717358 0
 75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\postcss\LICENSE132986524684123631 0
@@ -28,16 +28,6 @@
 76C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\msgpackr-extract132986504150346847 1
 94C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\watcher\src\unix\legacy.cc132986504172111738 0
 84C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\autoprefixer\lib\info.js132986524685764010 0
-85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\terser\lib\mozilla-ast.js132986504183654332 0
-100C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\dependency-location.js132986504201378316 0
-75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\mime-db\LICENSE132985640661964976 0
-108C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js132986504193836621 0
-69C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@mischnic132986504135733568 1
-96C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\css-tree\lib\lexer\generic-urange.js132986504150206821 0
-80C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\json5\lib\require.js132986504161199286 0
-77C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\readdirp\index.js132986517921796566 0
-69C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\svgo132986504310543557 0
-51C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist132987875979900078 1
 85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\prefixIds.js132986504158538705 0
 109C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite\data\features\css-read-only-write.js132986504157438441 0
 76C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\is-glob\index.js132986517922816789 0
@@ -47,6 +37,7 @@
 91C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite\data\regions\FI.js132986504159478899 0
 57C:\Users\danie\Documents\USYD\DECO2017\StudBud\.gitignore132985699761828092 0
 96C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\transformer-babel\lib\jsx.js132986504202828647 0
+79C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\components\home.scss132987877073230385 0
 84C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\htmlnano\lib\htmlnano.js132986504158788752 0
 69C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\reset.scss132986533532153734 0
 91C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\htmlnano\docs\docs\020-usage.md132986504159909008 0
@@ -113,7 +104,7 @@
 93C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\source-map-js\lib\mapping-list.js132986517923496940 0
 79C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\postcss\lib\node.js132986524684653763 0
 72C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite132986504169251100 1
-69C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\components132987871538526550 1
+69C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\components132987877073220397 1
 116C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js132986504166390469 0
 94C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\msgpackr-extract\node_modules\.bin132986504310573563 1
 71C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\cosmiconfig132986504152537339 1
@@ -168,7 +159,7 @@
 93C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h132986504162239522 0
 77C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\binary-extensions132986517921996599 1
 102C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\iconv-lite\encodings\tables\gbk-added.json132985640665365683 0
-80C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\components\music.scss132987875647667683 0
+80C:\Users\danie\Documents\USYD\DECO2017\StudBud\public\scss\components\music.scss132987876684731672 0
 89C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\postcss\lib\no-work-result.js132986524684633756 0
 87C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\removeXMLNS.js132986504159008800 0
 88C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\type-fest\source\opaque.d.ts132986504152087247 0
@@ -213,6 +204,11 @@
 104C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js132986504193526550 0
 66C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@lezer132986504135643555 1
 106C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\caniuse-lite\data\features\css-supports-api.js132986504157928562 0
+85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\terser\lib\mozilla-ast.js132986504183654332 0
+100C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\dependency-location.js132986504201378316 0
+75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\mime-db\LICENSE132985640661964976 0
+108C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js132986504193836621 0
+69C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@mischnic132986504135733568 1
 108C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\entities\lib\generated\decode-data-html.d.ts.map132986504149756715 0
 64C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@swc132986504135753568 1
 82C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\xxhash-wasm\LICENSE.md132986504159868992 0
@@ -1496,7 +1492,6 @@
 95C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\removeScriptElement.js132986504158848758 0
 88C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\transformer-html\lib132986504179583424 1
 81C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\mime-types\HISTORY.md132985640665085620 0
-76C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js.map132987875978779826 0
 106C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\node-gyp-build-optional-packages-test.ps1132986504310543557 0
 68C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\lmdb\src132986504161889443 1
 94C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\svgo\plugins\removeStyleElement.js132986504158868764 0
@@ -1767,7 +1762,6 @@
 93C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\prettifyTime.js132986504202868656 0
 85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\sass\types\exception.d.ts132986517924547173 0
 110C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.js132986504170121292 0
-69C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\home.c74267d1.css132987875978509752 0
 114C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js132986504183454294 0
 81C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\sass\types\index.d.ts132986517924617185 0
 83C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\sass\types\options.d.ts132986517924747222 0
@@ -1835,6 +1829,9 @@
 91C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\source-map\dist\node.js132986504179033297 0
 80C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\glob-parent\index.js132986517922816789 0
 79C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\readdirp\index.d.ts132986517921986602 0
+96C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\css-tree\lib\lexer\generic-urange.js132986504150206821 0
+80C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\json5\lib\require.js132986504161199286 0
+77C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\readdirp\index.js132986517921796566 0
 77C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\fs-search132986504178903269 1
 73C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\mime.ps1132985640677798484 0
 108C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\lmdb\node_modules\node-addon-api\tools\README.md132986504201328305 0
@@ -4336,7 +4333,6 @@
 85C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\path.js132986504202858650 0
 97C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\prettyDiagnostic.js132986504202888657 0
 93C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\PromiseQueue.js132986504202898659 0
-62C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\index.html132987875978709805 0
 104C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\replaceBundleReferences.js132986504202958674 0
 89C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\throttle.js132986504203068696 0
 88C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\@parcel\utils\src\urlJoin.js132986504203088700 0
@@ -5054,11 +5050,8 @@
 73C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\sass.ps1132986517924957265 0
 75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\semver.cmd132986504310543557 0
 75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\semver.ps1132986504310553564 0
+69C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\svgo132986504310543557 0
 73C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\svgo.ps1132986504310543557 0
 71C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\terser132986504310543557 0
 75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\terser.cmd132986504310543557 0
 75C:\Users\danie\Documents\USYD\DECO2017\StudBud\node_modules\.bin\terser.ps1132986504310543557 0
-73C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\home.c74267d1.css.map132987875978529760 0
-61C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\home.html132987875978909854 0
-72C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.f3bd186e.js132987875978779826 0
-65C:\Users\danie\Documents\USYD\DECO2017\StudBud\dist\tasklist.html132987875979850059 0
