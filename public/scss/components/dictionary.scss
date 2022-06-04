@@ -11,16 +11,16 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4D59FB;
+  background: rgb(181, 227, 243);
 }
 ::selection{
   color: #fff;
-  background: #4D59FB;
+  background: rgb(181, 227, 243);
 }
 .wrapper{
   width: 420px;
   border-radius: 7px;
-  background: rgb(129, 127, 127);
+  background: rgb(255, 255, 255);
   padding: 25px 28px 45px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
 }
@@ -40,19 +40,19 @@ body{
   font-size: 16px;
   border-radius: 5px;
   padding: 0 42px;
-  border: 1px solid #999;
+  border: 1px solid rgb(255, 255, 255);
 }
 .search input:focus{
   padding: 0 41px;
-  border: 2px solid #4D59FB;
+  border: 2px solid rgb(181, 227, 243);
 }
 .search input::placeholder{
-  color: #B8B8B8;
+  color: rgb(181, 227, 243);
 }
 .search :where(i, span){
   position: absolute;
   top: 50%;
-  color: #999;
+  color: rgb(181, 227, 243);
   transform: translateY(-50%);
 }
 .search i{
@@ -61,7 +61,7 @@ body{
   font-size: 16px;
 }
 .search input:focus ~ i{
-  color: #4D59FB;
+  color: rgb(181, 227, 243);
 }
 .search span{
   right: 15px;
@@ -74,7 +74,7 @@ body{
 }
 .wrapper .info-text{
   font-size: 13px;
-  color: #9A9A9A;
+  color: rgb(181, 227, 243);
   margin: -3px 0 -10px;
 }
 .wrapper.active .info-text{

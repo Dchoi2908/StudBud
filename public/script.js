@@ -84,16 +84,16 @@ var pomodoro = {
       this.interval = setInterval(function(){
         self.intervalCallback.apply(self);
       }, 1000);
-      document.querySelector('#work').onclick = function(){
+      document.querySelector('#study').onclick = function(){
         self.startWork.apply(self);
       };
-      document.querySelector('#shortBreak').onclick = function(){
+      document.querySelector('#quickBreak').onclick = function(){
         self.startShortBreak.apply(self);
       };
       document.querySelector('#longBreak').onclick = function(){
         self.startLongBreak.apply(self);
       };
-      document.querySelector('#stop').onclick = function(){
+      document.querySelector('#reset').onclick = function(){
         self.stopTimer.apply(self);
       };
     },
