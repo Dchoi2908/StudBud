@@ -37,6 +37,8 @@ In terms of the design style, i opted for a top - down method where information 
 
 While i did test a nav bar on the top, i found that having the nav bar on the side looked more natural than having the nav bar on the top.
 
+Overall, the design style is very simple with most assets and features being centred and in the middle. This however, if pursued more could be altered to have different components and features in a top down manner instead of a side to side manner of how it is currently.
+
 # Areas for Improvement/Development
 
 1. Nav bar
