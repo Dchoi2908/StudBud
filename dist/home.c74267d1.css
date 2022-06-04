@@ -297,7 +297,7 @@ i {
   width: 320px;
   height: 250px;
   background-color: #0000;
-  background-image: linear-gradient(#0000004d, #0006), url("http://static.stereogum.com/blogs.dir/2/files/2011/12/Adele-21.jpg");
+  background-image: linear-gradient(#0000004d, #0006), url("https://static.wikia.nocookie.net/justin-bieber/images/2/23/Justice.jpg");
   background-position: 0 0, bottom;
   background-repeat: repeat, repeat;
   background-size: cover;
@@ -475,7 +475,7 @@ i {
 }
 
 .player .music .song-1 .info .img.third, .player .music .song-2 .info .img.third, .player .music .song-3 .info .img.third, .player .music .song-4 .info .img.third {
-  background: url("http://images.rapgenius.com/59fc635f7dbe6b5cd1e07e5e605c96b5.640x640x1.jpg") center / cover;
+  background: url("https://static.wikia.nocookie.net/justin-bieber/images/a/a4/Stay.jpg/") center / cover;
 }
 
 .player .music .song-1 .info .img.fourth, .player .music .song-2 .info .img.fourth, .player .music .song-3 .info .img.fourth, .player .music .song-4 .info .img.fourth {
